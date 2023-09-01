@@ -1,14 +1,14 @@
 # Arcaya Farmacia
 Este projeto tem como objetivo ajudar donos de redes de farmácias a gerenciar suas farmácias espalhadas pelo brasil como a lista de medicamentos também!
 
-## Tecnologia que utilizei
+## Tecnologias que utilizei
 
 - React JS
 - Leaflet ( para criação do mapa )
 - Material icons
 - Styled Components
 
-## Tecnologia utilizada para simular api e consumir ela
+## Tecnologias utilizada para simular api e consumir ela
 
 - Axios
 - Json Server
@@ -31,7 +31,7 @@ npm run dev
 npm run server
 ```
 
-##Melhorias para meu projeto
+## Melhorias para meu projeto
 
 - Implementar os marcadores no mapa
 
